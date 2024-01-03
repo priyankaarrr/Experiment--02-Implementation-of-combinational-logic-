@@ -1,7 +1,4 @@
-```
-Name :- Priyanka R
-Reg no :- 212223220081
-```
+
 # Exp-02 Implementation of combinational logic
  
 ## AIM :-
@@ -67,6 +64,10 @@ the Output Waveform.
 
 
 ## Program :-
+```
+Name :- Priyanka R
+Reg no :- 212223220081
+```
 ```
 module ex2(A,B,C,D,F1);
 input A,B,C,D;
